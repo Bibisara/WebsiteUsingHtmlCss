@@ -1,0 +1,50 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #BCC3DE;
+}
+table{
+	border: none;
+}
+.head {
+	position: -webkit-sticky;
+  	position: sticky;
+  	top: 0;
+	padding: 20px;
+	height: 40px;
+	background-color: #611D1D;
+}
+
+.head a{
+	font-size: 30px;
+	color: white;
+	text-decoration: none;
+}
+
+#home {
+	margin-top: 50px;
+	height: 550px;
+}
+
+#about {
+	margin-top: 60px;
+	margin-bottom: 50px;
+}
+#edu {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+#hobby{
+	margin-top: 50px;
+	height: 500px;
+}
+.float{
+	margin: 110px;
+	float: left;
+}
+.skill{
+	clear: right;
+}
+footer img{
+	padding: 30px;
+}
